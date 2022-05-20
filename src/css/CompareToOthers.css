@@ -1,0 +1,189 @@
+.mainContainerCompareToOthers{
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+}
+.lightTxtComareToOthers{
+    font-size: 20px;
+    opacity: 0.5;
+}
+.headingOfCompareToOthers{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 64px;
+    margin-bottom: 60px;
+}
+.tableOfCompareToOthers {
+    border-collapse:inherit;
+}
+
+.tableHeadingblank{
+    width: 15%;
+}
+.tableHeadingCompareToOthers{
+    width: 18%;
+    padding-bottom: 30px!important;
+}
+.tableHeadingCompareToOthersMilo{
+    width: 18%;
+    padding-bottom: 18px!important ;
+}
+.tableHeadingTraditionalBanks{
+    width: 18%;
+    font-size: 24px;
+    padding-bottom: 30px!important;
+}
+.percentageOfPerAnnum{
+    font-size: 16px;
+    margin-top: 20px;
+}
+.discriptionOfPercentage{
+    font-size: 16px;
+    opacity: 0.5;
+    width: 96%;
+}
+.collateralRowFirstLine{
+    font-size: 16px;
+}
+.collateralRowSecondLine{
+    font-size: 16px;
+    opacity: 0.5;
+    width: 96%;
+}
+
+.margineCallsDiscription{
+    opacity: 0.5;
+    width: 96%;
+}
+
+.liquidationRiskDiscription{
+    opacity: 0.5;
+    width: 96%;
+}
+
+.taxImpactDiscription{
+    opacity: 0.5;
+    width: 96%;
+}
+tr:nth-child(even) {
+    background-color: #F9F9F9;;
+}
+.lightTxtCalculator{
+    font-size: 18px;
+    opacity: 0.5;
+    margin-top: 50px;
+}
+.headingOfInvestForYourFuture{
+    font-size: 48px;
+}
+.lightTxtOfSliderMoneyCanGrow{
+    font-size: 15px;
+    opacity: 0.6;
+}
+.InitialDepositeRangeBar{
+    height: 2px;
+    width: 100%;
+    background: #C4C4C4;;
+    color: black;
+}
+
+.initialDollarIcon{
+    width: 80%;
+    height: 30px;
+    border: 1px solid gray;
+    padding: 4px;
+    font-size: 16px;
+    padding-left: 15px;
+}
+.initialDepositeSpan{
+    padding-left: 100px;
+    font-size: 15px;
+}
+.monthlyDollarIcon{
+    width: 80%;
+    height: 30px;
+    border: 1px solid gray;
+    padding: 4px;
+    font-size: 16px;
+    padding-left: 15px;
+}
+.monthlyDollarSpan{
+    padding-left: 100px;
+    font-size: 15px;
+}
+.monthlyDepositeRangeBar{
+    height: 2px;
+    width: 100%;
+    background: #C4C4C4;;
+    color: black;
+}
+.riskLevelIconDiv{
+    width: 80%;
+    height: 30px;
+    border: 1px solid gray;
+    padding: 4px;
+    font-size: 16px;
+    padding-left: 15px;
+}
+.numberOfDollarSpan{
+    padding-left: 70px;
+    font-size: 15px;
+}
+.traditionalFirst{
+    background-color: #F9F9F9;
+    width: 100%;
+    height: 100%;
+    border-top: 6px solid #4A93FF;;
+}
+.traditionalSpan{
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    padding: 20px;
+}
+.walletFirstIcon{
+    border-radius: 50%;
+    font-size: 30px;
+    color: #4A93FF;
+    padding-top: 36px;
+}
+.txtTraditional{
+    margin-top: 48px;
+    font-size: 18px;
+}
+.valueofTraditional{
+    font-size: 24px;
+    margin-top: 42px;
+}
+.traditionalDivSecond{
+    background-color: #F9F9F9;
+    width: 100%;
+    height: 100%;
+    border-top: 6px solid #F4B655;
+}
+.SecondBitcoinIconSpan{
+    border-radius: 50%;
+    padding: 20px;
+    background-color: #FFFFFF; 
+}
+.SecondBitcoinIcon{
+    padding-top: 36px;
+    font-size: 30px;
+    color: #F4B655;
+}
+.traditionalDivThird{
+    background-color: #F9F9F9;
+    width: 100%;
+    height: 100%;
+    border-top: 6px solid #10C26D;
+}
+.ThirdDivIconSpan{
+    border-radius: 50%;
+    padding: 20px;
+    background-color: #FFFFFF; 
+}
+.ThirdDivIcon{
+    padding-top: 36px;
+    font-size: 30px;
+    color: #10C26D;
+}

@@ -1,0 +1,78 @@
+.back-img{
+  background-image: url("../Assets/Images/ImgBack.svg");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  height: 918px;
+  opacity: 0.3;
+}
+.text-logo {
+  text-align: center;
+  margin-top: 57px;
+}
+ .otp{
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 30%;
+  height: 478px;
+  background: #ffffff;
+  box-shadow: 0px 12px 27px rgb(0 0 0 / 15%);
+}
+.card-title {
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  color: #000000;
+  margin-top: 45px;
+  margin-bottom: 12px;
+}
+.otp-time {
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: #000000;
+  opacity: 0.5;
+}
+.enter-otp {
+  display: flex;
+  margin-top: 60px;
+  margin-left: 10px;
+}
+.mark20:focus {
+  color: #000000;
+  background-color: #c4c4c4;
+  border-color: #000000;
+  outline: 0;
+  box-shadow: none;
+}
+.mark20 {
+  margin-right: 15px;
+  text-align: center;
+  height: 56px;
+  border: 1px solid #c4c4c4;
+}
+.re-text {
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: #000000;
+  margin-top: 70px;
+}
+
+.corsor {
+  cursor: pointer;
+  border-bottom: 1px solid black;
+}
+.extra-info {
+  margin-top: 40px;
+}

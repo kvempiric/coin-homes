@@ -1,0 +1,212 @@
+.main-div {
+  font-family: "SF Pro";
+}
+.img-fluid {
+  margin-top: 0;
+  margin-bottom: 0;
+  height: 585px;
+  width: 100%;
+}
+.img-fluid-pic {
+  margin-top: 30px;
+  height: 286px;
+  width: 100%;
+}
+
+.propertyheading1 {
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 33px;
+  color: #000000;
+}
+.show-icon {
+  margin-right: 8px;
+}
+.bolt {
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 18px;
+  color: #000000;
+  margin-right: 10px;
+}
+.min-amt {
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #000000;
+  opacity: 0.6;
+}
+.amount {
+  border: 1px solid #000000;
+  border-right: 0;
+  border-top: 0;
+  border-left: 0;
+  padding: 0;
+}
+
+.bit-need {
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: #000000;
+  opacity: 0.5;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.icon-cele {
+  font-size: 18px;
+}
+.cele-bolt {
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 150%;
+  color: #000000;
+  /* padding-left: 10px; */
+}
+
+.p-loan {
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  color: #000000;
+  opacity: 0.5;
+  padding-left: 32px;
+}
+.icon-rotate {
+  font-size: 20px;
+}
+.ro-price {
+  font-size: 20px;
+}
+.ro-text {
+  font-size: 12px;
+  padding-left: 30px;
+  opacity: 0.5;
+}
+.icon-card {
+  font-size: 18px;
+}
+.card-percentage {
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 150%;
+  color: #000000;
+}
+.d-pay {
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  color: #000000;
+  opacity: 0.5;
+  padding-left: 32px;
+}
+.icon-tag {
+  font-size: 20px;
+}
+.dis-per {
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 150%;
+  color: #000000;
+}
+.cls-txt {
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  color: #000000;
+  opacity: 0.5;
+  padding-left: 25px;
+}
+.hori {
+  width: 100%;
+}
+
+.btn-compare {
+  font-size: 17px;
+  border-radius: 50px;
+  width: 100%;
+}
+.btn-arrow {
+  /* padding-top: 2px; */
+  /* margin-left: 50px; */
+  font-size: 20px;
+}
+.btn-request {
+  font-size: 17px;
+  border-radius: 50px;
+  width: 100%;
+  /* margin-left: 70px; */
+}
+.focus-btn:focus {
+  border-bottom: none;
+  background-color: white;
+  color: black;
+  box-shadow: none;
+}
+.card-img-1 {
+  width: auto;
+  height: auto;
+}
+.card-text-light {
+  font-size: 13px;
+  padding-left: 10px;
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  opacity: 0.5;
+}
+.text-unstyle {
+  font-size: 13px;
+  padding: 10px 12px;
+}
+.card-modify {
+  display: flex;
+  width: 20%;
+}
+.fot-head {
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 150%;
+}
+.fot-pera {
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+}
+.fot-btn {
+  align-items: end;
+  padding: 12px 30px;
+  border: none;
+}
+.fot-btn::after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f061";
+  padding-left: 50px;
+}
+

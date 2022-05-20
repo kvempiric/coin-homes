@@ -1,0 +1,22 @@
+.nav_link a{
+  width: 100px;
+  color: #000 ;
+}
+.register_btn{
+  color: #fff !important;
+  border-radius: 50px;
+  background-color: #000;
+}
+.nav_bar_position{
+  position: static;
+  top: 0px;
+  z-index: 2;
+  width: 100%;
+  background-color:transparent !important;
+}
+
+.navbar-Signin{
+  color: #0000008c !important;
+  text-decoration: none;
+  padding: 8px;
+}

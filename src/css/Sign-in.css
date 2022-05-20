@@ -1,0 +1,141 @@
+.img-fluided-signin {
+  /* position: absolute; */
+  width: 106px;
+  height: 50px;
+  left: 703px;
+  /* top: 57px; */
+  margin-top: 57px;
+  /* margin-bottom: 63px; */
+}
+.card-sign-in {
+
+  position: relative;
+  width: 510px;
+  height: 525px;
+  /* left: 501px; */
+  top: 63px;
+  /* padding-bottom: 15px; */
+
+  background: #ffffff;
+  box-shadow: 0px 12px 27px rgba(0, 0, 0, 0.15);
+}
+.header-sign-in {
+  position: absolute;
+  width: 311px;
+  height: 32px;
+  left: 100px;
+  top: 45px;
+
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+
+  text-align: center;
+
+  color: #000000;
+}
+.input-number-sign-in {
+  position: absolute;
+  width: 415px;
+  height: 56px;
+  left: 46px;
+  top: 112px;
+
+  border: 1px solid #c4c4c4;
+  box-sizing: border-box;
+  padding: 12px 23px;
+}
+.input-number::placeholder {
+  position: absolute;
+  width: 110px;
+  height: 32px;
+  left: 24px;
+  top: 12px;
+
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  color: #000000;
+
+  opacity: 0.5;
+}
+.reg-btn-sign-in {
+  position: absolute;
+  width: 415px;
+  height: 56px;
+  left: 46px;
+  top: 279px;
+
+  background: #767676;
+  border-radius: 99px;
+  border: none;
+
+}
+.sign-in {
+  position: absolute;
+  width: 55px;
+  height: 32px;
+  left: 181px;
+  top: 12px;
+
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  text-align: center;
+  text-decoration: none;
+
+  color: #ffffff;
+}
+.sign-in:hover{
+    text-decoration: none;
+    color: #ffffff;
+  
+    /* color: aqua; */
+  }
+.link-sign-in {
+  position: absolute;
+  width: 253px;
+  height: 21px;
+  left: 127px;
+  top: 359px;
+
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+
+  text-align: center;
+
+  color: #000000;
+}
+.footer-sign-in {
+  position: absolute;
+  width: 360px;
+  height: 21px;
+  left: 75px;
+  top: 450px;
+
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+
+  color: #000000;
+
+  opacity: 0.5;
+}

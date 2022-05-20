@@ -1,0 +1,51 @@
+.mainSub {
+  margin-top: 80px;
+}
+.Sub-box {
+  position: relative;
+  background-color: #ebb767;
+  width: 100%;
+  /* height: auto; */
+}
+.Sub-head {
+  width:80%;
+  font-family: sans-serif;
+  font-style: normal;
+  font-size: 48px;
+  margin-top: 64px;
+  color: #000000;
+}
+
+.Sub-img {
+  display: flex;
+  float: right;
+  position: relative;
+  background: transparent;
+  background-size: cover;
+  padding-top: 60px;
+}
+.buttonDiv{
+  text-align: start;
+  margin-top: 80px;
+  margin-left: 78px;
+}
+.btn_expalore_home{
+  background-color: #000000;
+  color: white;
+  border-radius: 50px;
+  height: 48px;
+  padding-left: 20px;
+}
+.btn_expalore_home:hover{
+  background-color: #000000;
+  color: white;
+}
+/* -------Media Query------ */
+
+@media screen and (max-width: 1272px){
+  .Sub-head {
+    width:auto;
+    font-size: 40px;
+  }
+  
+}

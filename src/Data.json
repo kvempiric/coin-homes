@@ -1,0 +1,1115 @@
+[
+  {
+      "primary_photo": {
+          "href": "https://ap.rdcpix.com/3892bd8bdefcfb5849e8d648b559268el-m1365872186s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-03-24T21:14:51Z",
+      "source": {
+          "plan_id": null,
+          "agents": [
+              {
+                  "office_name": null
+              }
+          ],
+          "spec_id": null,
+          "type": "mls"
+      },
+      "tags": [
+          "basement",
+          "two_or_more_stories"
+      ],
+      "permalink": "952-E-223rd-St_Bronx_NY_10466_M39742-66897",
+      "status": "for_sale",
+      "list_date": "2022-02-23T22:21:33Z",
+      "open_houses": null,
+      "description": {
+          "baths_3qtr": null,
+          "year_built": 1920,
+          "sold_price": 325000,
+          "baths_full": 2,
+          "name": null,
+          "baths_half": null,
+          "lot_sqft": null,
+          "sqft": 2440,
+          "baths": 2,
+          "sub_type": null,
+          "baths_1qtr": null,
+          "garage": null,
+          "stories": 2,
+          "beds": 9,
+          "type": "multi_family"
+      },
+      "branding": [
+          {
+              "name": "Tikal Realty Inc",
+              "photo": null,
+              "type": "Office"
+          }
+      ],
+      "list_price": 875000000,
+      "lead_attributes": {
+          "show_contact_an_agent": true
+      },
+      "property_id": "3974266897",
+      "photos": [
+          {
+              "tags": [
+                  {
+                      "label": "unknown",
+                      "probability": 0.76380318403244
+                  },
+                  {
+                      "label": "unknown",
+                      "probability": 0.57640910148621
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/3892bd8bdefcfb5849e8d648b559268el-m1365872186s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "unknown",
+                      "probability": 0.83412253856659
+                  },
+                  {
+                      "label": "exterior",
+                      "probability": 0.82846677303314
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/3892bd8bdefcfb5849e8d648b559268el-m3375197334s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "unknown",
+                      "probability": 0.92307931184769
+                  },
+                  {
+                      "label": "exterior",
+                      "probability": 0.87537926435471
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/3892bd8bdefcfb5849e8d648b559268el-m1049312861s-w1024_h768.jpg"
+          }
+      ],
+      "flags": {
+          "is_new_construction": null,
+          "is_for_rent": null,
+          "is_subdivision": null,
+          "is_contingent": null,
+          "is_price_reduced": null,
+          "is_pending": null,
+          "is_foreclosure": null,
+          "is_plan": null,
+          "is_coming_soon": null,
+          "is_new_listing": false
+      },
+      "community": null,
+      "products": {
+          "brand_name": "basic_opt_in"
+      },
+      "virtual_tours": null,
+      "other_listings": {
+          "rdc": [
+              {
+                  "listing_id": "2940546202",
+                  "listing_key": null,
+                  "status": "for_sale",
+                  "primary": true
+              }
+          ]
+      },
+      "listing_id": "2940546202",
+      "price_reduced_amount": null,
+      "location": {
+          "address": {
+              "postal_code": "10458",
+              "state": "New York",
+              "coordinate": {
+                  "lon": -73.85365,
+                  "lat": 40.883738
+              },
+              "city": "Bronx",
+              "state_code": "NY",
+              "line": "952 E 223 St Units 4858 & 66"
+          },
+          "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=952%20E%20223%20St%20Units%204858%20%26%2066%2C%20Bronx%2C%20NY%2010458&size=640x480&source=outdoor&signature=-q2PpeqTnbNNIn0EzeTo21V_Hbo=",
+          "county": {
+              "fips_code": "36005",
+              "name": "Bronx"
+          }
+      },
+      "matterport": false
+  },
+  {
+      "primary_photo": {
+          "href": "https://ap.rdcpix.com/ec7e5efbeea28476a4cf76e665974f4dl-m803024403s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-03-23T22:26:06Z",
+      "source": {
+          "plan_id": null,
+          "agents": [
+              {
+                  "office_name": "Serhant LLC"
+              }
+          ],
+          "spec_id": null,
+          "type": "mls"
+      },
+      "tags": [
+          "central_air",
+          "city_view",
+          "community_doorman",
+          "community_gym",
+          "community_outdoor_space",
+          "corner_lot",
+          "den_or_office",
+          "fireplace",
+          "laundry_room",
+          "pets_allowed",
+          "recreation_facilities",
+          "view",
+          "washer_dryer",
+          "community_swimming_pool",
+          "two_or_more_stories",
+          "garage_1_or_more",
+          "basement",
+          "high_ceiling",
+          "wine_cellar",
+          "library",
+          "furniture",
+          "elevator",
+          "ensuite",
+          "park",
+          "views",
+          "shopping"
+      ],
+      "permalink": "432-Park-Ave_New-York_NY_10022_M91723-55529",
+      "status": "for_sale",
+      "list_date": "2021-07-19T16:59:14Z",
+      "open_houses": null,
+      "description": {
+          "baths_3qtr": null,
+          "year_built": 2015,
+          "sold_price": null,
+          "baths_full": 7,
+          "name": null,
+          "baths_half": 2,
+          "lot_sqft": 34470,
+          "sqft": 8255,
+          "baths": 9,
+          "sub_type": "condo",
+          "baths_1qtr": null,
+          "garage": null,
+          "stories": 96,
+          "beds": 6,
+          "type": "condos"
+      },
+      "branding": [
+          {
+              "name": "SERHANT LLC",
+              "photo": null,
+              "type": "Office"
+          }
+      ],
+      "list_price": 169000000,
+      "lead_attributes": {
+          "show_contact_an_agent": true
+      },
+      "property_id": "9172355529",
+      "photos": [
+          {
+              "tags": [
+                  {
+                      "label": "exterior",
+                      "probability": 0.94631654024124
+                  },
+                  {
+                      "label": "unknown",
+                      "probability": 0.99984061717987
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/ec7e5efbeea28476a4cf76e665974f4dl-m803024403s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "exterior",
+                      "probability": 0.64813500642776
+                  },
+                  {
+                      "label": "unknown",
+                      "probability": 0.95268803834915
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/ec7e5efbeea28476a4cf76e665974f4dl-m2434274580s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "living_room",
+                      "probability": 0.99473565816879
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/ec7e5efbeea28476a4cf76e665974f4dl-m2077219593s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "living_room",
+                      "probability": 0.99614304304123
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/ec7e5efbeea28476a4cf76e665974f4dl-m4154529608s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "unknown",
+                      "probability": 0.99134021997452
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/ec7e5efbeea28476a4cf76e665974f4dl-m2048230602s-w1024_h768.jpg"
+          }
+      ],
+      "flags": {
+          "is_new_construction": null,
+          "is_for_rent": null,
+          "is_subdivision": null,
+          "is_contingent": null,
+          "is_price_reduced": null,
+          "is_pending": null,
+          "is_foreclosure": null,
+          "is_plan": null,
+          "is_coming_soon": null,
+          "is_new_listing": false
+      },
+      "community": {
+          "advertisers": null,
+          "description": {
+              "name": "432 Park"
+          }
+      },
+      "products": {
+          "brand_name": "basic_opt_in"
+      },
+      "virtual_tours": [
+          {
+              "type": null,
+              "href": "https://youtu.be/If1d8w-3fWQ"
+          }
+      ],
+      "other_listings": {
+          "rdc": [
+              {
+                  "listing_id": "2931928462",
+                  "listing_key": null,
+                  "status": "for_sale",
+                  "primary": true
+              }
+          ]
+      },
+      "listing_id": "2931928462",
+      "price_reduced_amount": null,
+      "location": {
+          "address": {
+              "postal_code": "10022",
+              "state": "New York",
+              "coordinate": {
+                  "lon": -73.971793,
+                  "lat": 40.7615
+              },
+              "city": "New York City",
+              "state_code": "NY",
+              "line": "432 Park Ave Unit Penthouse"
+          },
+          "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=432%20Park%20Ave%20Unit%20Penthouse%2C%20New%20York%20City%2C%20NY%2010022&size=640x480&source=outdoor&signature=M_8CTOUfuhEa5GGecVud_pNhmac=",
+          "county": {
+              "fips_code": "36061",
+              "name": "New York"
+          }
+      },
+      "matterport": true
+  },
+  {
+      "primary_photo": {
+          "href": "https://ap.rdcpix.com/eb2bb5c1e7a6a443991e2ff366ec283bl-m2713867703s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-04-12T09:45:06Z",
+      "source": {
+          "plan_id": null,
+          "agents": [
+              {
+                  "office_name": null
+              }
+          ],
+          "spec_id": null,
+          "type": "mls"
+      },
+      "tags": [
+          "city_view",
+          "community_doorman",
+          "community_elevator",
+          "pets_allowed",
+          "recreation_facilities",
+          "river_view",
+          "view",
+          "water_view",
+          "community_swimming_pool",
+          "waterfront",
+          "high_ceiling",
+          "library",
+          "furniture",
+          "elevator"
+      ],
+      "permalink": "432-Park-Ave-79_New-York_NY_10022_M39316-41046",
+      "status": "for_sale",
+      "list_date": "2021-09-21T11:22:27Z",
+      "open_houses": null,
+      "description": {
+          "baths_3qtr": null,
+          "year_built": null,
+          "sold_price": 59144631,
+          "baths_full": 6,
+          "name": null,
+          "baths_half": null,
+          "lot_sqft": null,
+          "sqft": 8055,
+          "baths": 6,
+          "sub_type": "condo",
+          "baths_1qtr": null,
+          "garage": null,
+          "stories": null,
+          "beds": 5,
+          "type": "condos"
+      },
+      "branding": [
+          {
+              "name": "Engel & Völkers New York City",
+              "photo": null,
+              "type": "Office"
+          }
+      ],
+      "list_price": 135000000,
+      "lead_attributes": {
+          "show_contact_an_agent": true
+      },
+      "property_id": "3931641046",
+      "photos": [
+          {
+              "tags": [
+                  {
+                      "label": "kitchen",
+                      "probability": 0.99903392791748
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/eb2bb5c1e7a6a443991e2ff366ec283bl-m2713867703s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "unknown",
+                      "probability": 0.79084211587906
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/eb2bb5c1e7a6a443991e2ff366ec283bl-m44381548s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "bathroom",
+                      "probability": 0.9991038441658
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/eb2bb5c1e7a6a443991e2ff366ec283bl-m2645629132s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "unknown",
+                      "probability": 0.54892408847809
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/eb2bb5c1e7a6a443991e2ff366ec283bl-m3182770750s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "dining_room",
+                      "probability": 0.7201681137085
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/eb2bb5c1e7a6a443991e2ff366ec283bl-m2691458165s-w1024_h768.jpg"
+          }
+      ],
+      "flags": {
+          "is_new_construction": null,
+          "is_for_rent": null,
+          "is_subdivision": null,
+          "is_contingent": null,
+          "is_price_reduced": null,
+          "is_pending": null,
+          "is_foreclosure": null,
+          "is_plan": null,
+          "is_coming_soon": null,
+          "is_new_listing": false
+      },
+      "community": {
+          "advertisers": null,
+          "description": {
+              "name": "432 Park"
+          }
+      },
+      "products": {
+          "brand_name": "essentials"
+      },
+      "virtual_tours": null,
+      "other_listings": {
+          "rdc": [
+              {
+                  "listing_id": "2934514134",
+                  "listing_key": null,
+                  "status": "for_sale",
+                  "primary": true
+              },
+              {
+                  "listing_id": "2934186286",
+                  "listing_key": null,
+                  "status": "for_sale",
+                  "primary": null
+              }
+          ]
+      },
+      "listing_id": "2934514134",
+      "price_reduced_amount": null,
+      "location": {
+          "address": {
+              "postal_code": "10022",
+              "state": "New York",
+              "coordinate": {
+                  "lon": -73.971793,
+                  "lat": 40.7615
+              },
+              "city": "New York",
+              "state_code": "NY",
+              "line": "432 Park Ave Unit 79"
+          },
+          "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=432%20Park%20Ave%20Unit%2079%2C%20New%20York%2C%20NY%2010022&size=640x480&source=outdoor&signature=hD1qRQ6Vztra0kZLY3yVlfBPJKU=",
+          "county": {
+              "fips_code": "36061",
+              "name": "New York"
+          }
+      },
+      "matterport": false
+  },
+  {
+      "primary_photo": {
+          "href": "https://ap.rdcpix.com/61e15c0ac3d853e93de4f0d791f9575dl-m989638195s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-04-11T13:04:52Z",
+      "source": {
+          "plan_id": null,
+          "agents": [
+              {
+                  "office_name": null
+              }
+          ],
+          "spec_id": null,
+          "type": "mls"
+      },
+      "tags": [
+          "city_view",
+          "pets_allowed",
+          "river_view",
+          "view",
+          "water_view",
+          "swimming_pool",
+          "rental_property",
+          "big_lot",
+          "elevator",
+          "park"
+      ],
+      "permalink": "421-W-250th-St_Bronx_NY_10471_M44190-78018",
+      "status": "for_sale",
+      "list_date": "2021-11-03T14:44:18Z",
+      "open_houses": null,
+      "description": {
+          "baths_3qtr": null,
+          "year_built": null,
+          "sold_price": 3000000,
+          "baths_full": 123,
+          "name": null,
+          "baths_half": null,
+          "lot_sqft": null,
+          "sqft": null,
+          "baths": 123,
+          "sub_type": null,
+          "baths_1qtr": null,
+          "garage": null,
+          "stories": null,
+          "beds": 123,
+          "type": "single_family"
+      },
+      "branding": [
+          {
+              "name": "FITZGERALD JOHN JOSEPH",
+              "photo": null,
+              "type": "Office"
+          }
+      ],
+      "list_price": 120000000,
+      "lead_attributes": {
+          "show_contact_an_agent": true
+      },
+      "property_id": "4419078018",
+      "photos": [
+          {
+              "tags": [
+                  {
+                      "label": "exterior",
+                      "probability": 0.99989712238312
+                  },
+                  {
+                      "label": "exterior",
+                      "probability": 0.99901223182678
+                  },
+                  {
+                      "label": "exterior",
+                      "probability": 0.44490078091621
+                  },
+                  {
+                      "label": "exterior",
+                      "probability": 0.99839442968369
+                  },
+                  {
+                      "label": "other_unknowns",
+                      "probability": 0.99986517429352
+                  },
+                  {
+                      "label": "other_unknowns",
+                      "probability": 0.99938952922821
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/61e15c0ac3d853e93de4f0d791f9575dl-m989638195s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "exterior",
+                      "probability": 0.99957424402237
+                  },
+                  {
+                      "label": "exterior",
+                      "probability": 0.84364742040634
+                  },
+                  {
+                      "label": "exterior",
+                      "probability": 0.99623650312424
+                  },
+                  {
+                      "label": "other_unknowns",
+                      "probability": 0.9994370341301
+                  },
+                  {
+                      "label": "other_unknowns",
+                      "probability": 0.99834942817688
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/61e15c0ac3d853e93de4f0d791f9575dl-m2272556783s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "unknown",
+                      "probability": 0.99634039402008
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/61e15c0ac3d853e93de4f0d791f9575dl-m3739395639s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "exterior",
+                      "probability": 0.99885833263397
+                  },
+                  {
+                      "label": "exterior",
+                      "probability": 0.8720538020134
+                  },
+                  {
+                      "label": "swimming_pool",
+                      "probability": 0.99671626091003
+                  },
+                  {
+                      "label": "other_unknowns",
+                      "probability": 0.9992852807045
+                  },
+                  {
+                      "label": "other_unknowns",
+                      "probability": 0.66752302646637
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/61e15c0ac3d853e93de4f0d791f9575dl-m23588013s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "exterior",
+                      "probability": 0.99931621551514
+                  },
+                  {
+                      "label": "exterior",
+                      "probability": 0.99433916807175
+                  },
+                  {
+                      "label": "exterior",
+                      "probability": 0.99901449680328
+                  },
+                  {
+                      "label": "other_unknowns",
+                      "probability": 0.99969387054443
+                  },
+                  {
+                      "label": "other_unknowns",
+                      "probability": 0.99959057569504
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/61e15c0ac3d853e93de4f0d791f9575dl-m192919247s-w1024_h768.jpg"
+          }
+      ],
+      "flags": {
+          "is_new_construction": null,
+          "is_for_rent": null,
+          "is_subdivision": null,
+          "is_contingent": null,
+          "is_price_reduced": null,
+          "is_pending": null,
+          "is_foreclosure": null,
+          "is_plan": null,
+          "is_coming_soon": null,
+          "is_new_listing": false
+      },
+      "community": null,
+      "products": {
+          "brand_name": "basic_opt_in"
+      },
+      "virtual_tours": null,
+      "other_listings": {
+          "rdc": [
+              {
+                  "listing_id": "2936346405",
+                  "listing_key": null,
+                  "status": "for_sale",
+                  "primary": true
+              },
+              {
+                  "listing_id": "2936799826",
+                  "listing_key": null,
+                  "status": "off_market",
+                  "primary": null
+              },
+              {
+                  "listing_id": "504677609",
+                  "listing_key": null,
+                  "status": "off_market",
+                  "primary": null
+              },
+              {
+                  "listing_id": "509660001",
+                  "listing_key": null,
+                  "status": "off_market",
+                  "primary": null
+              },
+              {
+                  "listing_id": "511754965",
+                  "listing_key": null,
+                  "status": "off_market",
+                  "primary": null
+              }
+          ]
+      },
+      "listing_id": "2936346405",
+      "price_reduced_amount": null,
+      "location": {
+          "address": {
+              "postal_code": "10471",
+              "state": "New York",
+              "coordinate": {
+                  "lon": -73.904562,
+                  "lat": 40.897894
+              },
+              "city": "New York City",
+              "state_code": "NY",
+              "line": "421 W 250th St"
+          },
+          "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=421%20W%20250th%20St%2C%20New%20York%20City%2C%20NY%2010471&size=640x480&source=outdoor&signature=MazbqtuWs6xfzAjJpJ7P-OcH07A=",
+          "county": {
+              "fips_code": "36005",
+              "name": "Bronx"
+          }
+      },
+      "matterport": false
+  },
+  {
+      "primary_photo": {
+          "href": "https://ap.rdcpix.com/3265313786/be57b4432a13173c3a043628fff5a814l-m0s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-09T05:56:36Z",
+      "source": {
+          "plan_id": null,
+          "agents": [
+              {
+                  "office_name": "R2RR - River 2 River Realty"
+              }
+          ],
+          "spec_id": null,
+          "type": "mls"
+      },
+      "tags": [
+          "community_outdoor_space",
+          "community_security_features",
+          "community_tennis_court",
+          "laundry_room",
+          "pets_allowed",
+          "recreation_facilities",
+          "river_view",
+          "view",
+          "water_view",
+          "two_or_more_stories",
+          "swimming_pool",
+          "waterfront",
+          "basketball_court",
+          "tennis_court",
+          "rental_property",
+          "golf_course",
+          "tennis",
+          "basketball"
+      ],
+      "permalink": "635-W-42nd-St-45_New-York_NY_10036_M92324-54479",
+      "status": "for_sale",
+      "list_date": "2019-02-18T11:15:23Z",
+      "open_houses": [
+          {
+              "start_date": "2022-04-19T10:00:00",
+              "description": "/PUBLIC/VIRTUAL",
+              "end_date": "2022-04-19T18:45:00",
+              "dst": true,
+              "time_zone": "EST"
+          }
+      ],
+      "description": {
+          "baths_3qtr": null,
+          "year_built": 2007,
+          "sold_price": null,
+          "baths_full": 10,
+          "name": null,
+          "baths_half": 1,
+          "lot_sqft": null,
+          "sqft": 15000,
+          "baths": 11,
+          "sub_type": "condo",
+          "baths_1qtr": null,
+          "garage": null,
+          "stories": 46,
+          "beds": 10,
+          "type": "condos"
+      },
+      "branding": [
+          {
+              "name": "R2RR - River 2 River Realty",
+              "photo": null,
+              "type": "Office"
+          }
+      ],
+      "list_price": 85000000,
+      "lead_attributes": {
+          "show_contact_an_agent": true
+      },
+      "property_id": "9232454479",
+      "photos": [
+          {
+              "tags": [
+                  {
+                      "label": "unknown",
+                      "probability": 0.83127069473267
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/3265313786/be57b4432a13173c3a043628fff5a814l-m0s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "living_room",
+                      "probability": 0.99341291189194
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/559936838/be57b4432a13173c3a043628fff5a814l-m1s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "unknown",
+                      "probability": 0.99956434965134
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/3013776929/be57b4432a13173c3a043628fff5a814l-m2s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "living_room",
+                      "probability": 0.98854243755341
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/2430658599/be57b4432a13173c3a043628fff5a814l-m3s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "living_room",
+                      "probability": 0.99999845027924
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/2947432700/be57b4432a13173c3a043628fff5a814l-m4s-w1024_h768.jpg"
+          }
+      ],
+      "flags": {
+          "is_new_construction": null,
+          "is_for_rent": null,
+          "is_subdivision": null,
+          "is_contingent": null,
+          "is_price_reduced": null,
+          "is_pending": null,
+          "is_foreclosure": null,
+          "is_plan": null,
+          "is_coming_soon": null,
+          "is_new_listing": false
+      },
+      "community": {
+          "advertisers": null,
+          "description": {
+              "name": "Atelier"
+          }
+      },
+      "products": {
+          "brand_name": "basic_opt_in"
+      },
+      "virtual_tours": [
+          {
+              "type": null,
+              "href": "https://www.youtube.com/watch?v=BsLPhTv1_3M_"
+          }
+      ],
+      "other_listings": {
+          "rdc": [
+              {
+                  "listing_id": "586516945",
+                  "listing_key": null,
+                  "status": "for_sale",
+                  "primary": true
+              },
+              {
+                  "listing_id": "2080298402",
+                  "listing_key": null,
+                  "status": "for_sale",
+                  "primary": null
+              },
+              {
+                  "listing_id": "575832729",
+                  "listing_key": null,
+                  "status": "off_market",
+                  "primary": null
+              }
+          ]
+      },
+      "listing_id": "586516945",
+      "price_reduced_amount": null,
+      "location": {
+          "address": {
+              "postal_code": "10036",
+              "state": "New York",
+              "coordinate": {
+                  "lon": -73.999647,
+                  "lat": 40.761781
+              },
+              "city": "New York",
+              "state_code": "NY",
+              "line": "635 W 42nd St Unit 45THFLOOR"
+          },
+          "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=635%20W%2042nd%20St%20Unit%2045THFLOOR%2C%20New%20York%2C%20NY%2010036&size=640x480&source=outdoor&signature=fwCthWILopfQ8DPj3D4ozp8lROw=",
+          "county": {
+              "fips_code": "36061",
+              "name": "New York"
+          }
+      },
+      "matterport": false
+  },
+  {
+      "primary_photo": {
+          "href": "https://ap.rdcpix.com/c1399630e707320fe6dcd57e6acbdb17l-m3857036153s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-04-08T11:02:18Z",
+      "source": {
+          "plan_id": null,
+          "agents": [
+              {
+                  "office_name": null
+              }
+          ],
+          "spec_id": null,
+          "type": "mls"
+      },
+      "tags": [
+          "pets_allowed",
+          "spa_or_hot_tub",
+          "high_ceiling",
+          "views"
+      ],
+      "permalink": "973-5th-Ave_New-York_NY_10075_M40638-84641",
+      "status": "for_sale",
+      "list_date": "2021-07-02T19:01:12Z",
+      "open_houses": null,
+      "description": {
+          "baths_3qtr": null,
+          "year_built": null,
+          "sold_price": 42000000,
+          "baths_full": 10,
+          "name": null,
+          "baths_half": 3,
+          "lot_sqft": null,
+          "sqft": 15000,
+          "baths": 13,
+          "sub_type": "townhouse",
+          "baths_1qtr": null,
+          "garage": null,
+          "stories": null,
+          "beds": 9,
+          "type": "townhomes"
+      },
+      "branding": [
+          {
+              "name": "The Corcoran Group - East Side",
+              "photo": null,
+              "type": "Office"
+          }
+      ],
+      "list_price": 80000000,
+      "lead_attributes": {
+          "show_contact_an_agent": true
+      },
+      "property_id": "4063884641",
+      "photos": [
+          {
+              "tags": [
+                  {
+                      "label": "living_room",
+                      "probability": 0.9650444984436
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/c1399630e707320fe6dcd57e6acbdb17l-m3857036153s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "unknown",
+                      "probability": 0.99960440397263
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/c1399630e707320fe6dcd57e6acbdb17l-m1028316203s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "dining_room",
+                      "probability": 0.99820411205292
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/c1399630e707320fe6dcd57e6acbdb17l-m4279199685s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "unknown",
+                      "probability": 0.99990653991699
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/c1399630e707320fe6dcd57e6acbdb17l-m2402901121s-w1024_h768.jpg"
+          },
+          {
+              "tags": [
+                  {
+                      "label": "living_room",
+                      "probability": 0.95794749259949
+                  }
+              ],
+              "href": "https://ap.rdcpix.com/c1399630e707320fe6dcd57e6acbdb17l-m1899300240s-w1024_h768.jpg"
+          }
+      ],
+      "flags": {
+          "is_new_construction": null,
+          "is_for_rent": null,
+          "is_subdivision": null,
+          "is_contingent": null,
+          "is_price_reduced": null,
+          "is_pending": null,
+          "is_foreclosure": null,
+          "is_plan": null,
+          "is_coming_soon": null,
+          "is_new_listing": false
+      },
+      "community": null,
+      "products": {
+          "brand_name": "essentials"
+      },
+      "virtual_tours": null,
+      "other_listings": {
+          "rdc": [
+              {
+                  "listing_id": "2931261197",
+                  "listing_key": null,
+                  "status": "for_sale",
+                  "primary": true
+              },
+              {
+                  "listing_id": "2939323800",
+                  "listing_key": null,
+                  "status": "for_sale",
+                  "primary": null
+              },
+              {
+                  "listing_id": "2931266266",
+                  "listing_key": null,
+                  "status": "off_market",
+                  "primary": null
+              },
+              {
+                  "listing_id": "2931382632",
+                  "listing_key": null,
+                  "status": "off_market",
+                  "primary": null
+              }
+          ]
+      },
+      "listing_id": "2931261197",
+      "price_reduced_amount": null,
+      "location": {
+          "address": {
+              "postal_code": "10075",
+              "state": "New York",
+              "coordinate": {
+                  "lon": -73.963597,
+                  "lat": 40.776644
+              },
+              "city": "New York",
+              "state_code": "NY",
+              "line": "973 Fifth Ave"
+          },
+          "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=973%20Fifth%20Ave%2C%20New%20York%2C%20NY%2010075&size=640x480&source=outdoor&signature=-SLfOwPc6_ekmS8XFjmNivB2a8Y=",
+          "county": {
+              "fips_code": "36061",
+              "name": "New York"
+          }
+      },
+      "matterport": false
+  }
+]

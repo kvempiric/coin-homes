@@ -1,0 +1,113 @@
+.conte1 {
+  padding: 5% 5% 6% 7%;
+  background-color: #f5f5f5;
+}
+.fetIcons {
+  padding: 0% 20% 0% 2%;
+  /* padding-left: 10px; */
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 590;
+  font-size: 16px;
+  line-height: 18px;
+  /* identical to box height, or 129% */
+  gap: 35px;
+  color: #000000;
+  opacity: 0.7;
+}
+.cardphoto{
+  width: auto;
+  height: 400px;
+  
+}
+.cardMainarea{
+  height: 270px;
+}
+.fetName {
+  padding: 2%;
+}
+.mainText {
+  width: 85%;
+  /* height: auto; */
+  padding-top: 5%;
+  padding-left: 2%;
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 150%;
+  /* or 30px */
+
+  color: #000000;
+}
+.fetPrice{
+    padding-top: 25px;
+    padding-left: 2%;
+}
+.D-price {
+
+  font-family: "SF Pro Text";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #000000;
+
+  opacity: 0.5;
+}
+.B-price{
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    
+    color: #000000;
+    
+    opacity: 0.5;
+    
+}
+.FeatBtn {
+  width: 22%;
+  height: 56px;
+  margin: 0px auto;
+  border-radius: 150px;
+  margin-top: 10%;
+  background: #000000;
+}
+.feat {
+  text-align: center;
+  color: #ebb767;
+}
+.feat:hover {
+  color: #ebb767;
+  box-shadow: none;
+  
+}
+/* ---------Media Query----------- */
+
+@media screen and (max-width: 1272px){
+  .conte1 {
+    padding: 5% 5% 5% 5%;
+  }
+  .fetIcons {
+    padding: 0% 2% 0% 2%;
+    font-size: 13px;
+    line-height: 16px;
+  }
+  .fetName {
+    padding: 1%;
+  }
+  .mainText {
+    width: 85%;
+    font-size: 25px;
+  }
+  .FeatBtn {
+    width: 28%;
+    height: 56px;
+    margin: 0px auto;
+    border-radius: 150px;
+    margin-top: 12%;
+    background: #000000;
+  }
+}

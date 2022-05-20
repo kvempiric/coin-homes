@@ -1,0 +1,23 @@
+.oops_no_one_is_home_text{
+    font-family: "NeueMontreal-Regular";
+    font-size: 34px;
+    color: #616161;
+}
+.number_404{
+    font-size: 300px;
+    color: #DBDBDB;
+}
+.below_404_text{
+    font-size: 18px;
+    color: #616161;
+}
+.home_page_link_in_error_page{
+    text-decoration: none;
+    color: #F4B655;
+}
+.home_page_link_in_error_page:hover{
+    color: #F4B655;
+}
+.four_zero_four_error_image{
+    max-width: 100%;
+}

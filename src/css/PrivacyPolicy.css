@@ -1,0 +1,40 @@
+.mainPrivacy {
+  margin-bottom: 200px;
+  /* background-image: url(../Assets/Images/Vector.svg);
+  background-position: right top;
+  background-repeat: no-repeat; */
+}
+.PrivacyHead {
+  opacity: 0.5;
+}
+.backgroundImgPrivacyPolicy{
+  position: absolute;
+  background: transparent;
+  opacity: 0.2;
+  margin-left: 65%;
+  top:0;
+}
+
+.PolicyPera {
+  border-bottom: 1px solid gray;
+  padding-bottom: 50px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 42px;
+}
+.privacyPolicytxt {
+  /* position: absolute; */
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+}
+.privacypolicysubtxt{
+  position: absolute;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+}

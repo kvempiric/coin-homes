@@ -1,0 +1,476 @@
+.deposite_main_container_fluid{
+    background-color: #E5E5E5;
+    height: 810px;
+}
+
+.heading_of_make_deposit{
+    font-family: "NeueMontreal-Medium";
+    text-align: center; 
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+    color: #000000; 
+    margin-top: 25px;
+}
+.description_of_heading_txt{
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #616161;
+}
+.progressbar_deposit {
+    height: 100%;
+    counter-reset: step;
+}
+.progressbar_deposit li {
+    list-style-type: none;
+    width: 25%;
+    float: left;
+    position: relative;
+    text-align: center;
+}
+.progressbar_deposit li span{
+    /* opacity: 0.5; */
+    color: #7d7d7d;
+}
+.progressbar_deposit li:before {
+    width: 20px;
+    height: 20px;
+    content: '';
+    line-height: 30px;
+    border: 2px solid #7d7d7d;
+    background-color: #7d7d7d;
+    display: block;
+    text-align: center;
+    margin: 0 auto 10px auto;
+    border-radius: 50%;
+    transition: all .8s;
+    opacity: 0.5;
+}
+.progressbar_deposit li:after {
+    width: 100%;
+    height: 2px;
+    content: '';
+    position: absolute;
+    background-color: #7d7d7d;
+    top: 9px;
+    left: 0;
+    transition: all .8s;
+    transform: translate(-47%);
+    opacity: 0.3;
+}
+.progressbar_deposit li:first-child:after {
+    content: none;
+    opacity: 1;
+}
+.progressbar_deposit li.active::after,
+.progressbar_deposit li.active:before {
+    border-color: #ECA330;
+    background-color: #ECA330;
+    transition: all .7s;
+    opacity: 1;
+}
+.payment_deposit_process{
+    display: none;
+}
+.diposit_amount_bg{
+    background-color: #fff;
+    padding-top:40px;
+    padding-bottom: 25px;
+    width: 810px;
+    height: 470px;
+}
+.deposit_detail_title{
+    font-family: "NeueMontreal-Medium";
+    font-size: 18px;
+    color: #000000;
+    text-align: center;
+}
+.select_currency_text{
+    font-size: 16px;
+    padding-left: 28%;
+}
+.choose_currency_bitcoin_btn{
+    border-radius: 50px;
+    background-color: #F4B655;
+    color: #000000;
+    border-color: #F4B655;
+    width: auto;
+    font-size: 16px;
+    padding: 10px 25px;
+    margin-left: 29%;
+}
+.choose_currency_etherum_btn{
+    border-radius: 50px;
+    width: auto;
+    font-size: 16px;
+    background-color: #fff; 
+    border: 1px solid #DBDBDB;
+    padding: 10px 25px;
+}
+.deposit_amount_label{
+    font-size: 18px;
+    letter-spacing: 0.04px;
+    padding-left: 29%;
+}
+.deposit_amount_input{
+    letter-spacing: 0.04px;
+    padding: 12px 16px;
+    border-radius: 0;
+    width: 50%;
+    font-size: 20px;
+    margin-left: 29%;
+}
+.min_deposite_warning_text{
+    padding-left: 29%;
+}
+.btn_deposite_amount_next{
+    background-color: #F4B655;
+    color: #000000;
+    font-size: 15px;
+    border-radius: 50px;
+    width: auto;
+    height: auto;
+    padding: 9px 30px;
+}
+.deposit_description_text{
+    font-size: 15px;
+    line-height: 24px;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 0;
+}
+.scan_code_copy_div{
+    border: 1px solid #616161;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 0;
+}
+.code_span{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    color: #000000;
+}
+.btn_copy_code{
+    margin-left: 20px;
+    border: none;
+    background-color: white;
+}
+.conform_payment_slip_div{
+    border: 1px solid black;
+    width: 350px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.thank_you_div{
+    border-bottom: 1px solid #e7e7e7;
+    
+}
+.thank_you_text{
+    font-size: 18px;
+    color: #0d6efd;
+}
+.payment_infomation_div{
+    border-bottom: 1px solid #e7e7e7;
+}
+.payment_completed_bold_text{
+    color: #000000;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.payment_information_light_text{
+    font-size: 14px;
+    opacity: 0.6;
+}
+.amount_number_parent_div{
+    border-bottom: 1px solid #e7e7e7;
+}
+.amount_text_child{
+    color: #000000;
+}
+.amount_in_Dollar{
+    color: #0d6efd;
+}
+.order_number_text{
+    color: #000000;
+}
+.order_number_div{
+    border: 1px solid #d1d1d1;
+    border-radius: 5px;
+    width: fit-content;
+    padding: 2px 10px;
+    float: right;
+    background-color: #d1d1d1;
+}
+.order_number_code{
+    font-size: 13px;
+    margin-bottom: 0;
+}
+.payment_status_text{
+    color: #000000;
+}
+.payment_status_completed_div{
+    border: 1px solid #d1d1d1;
+    border-radius: 5px;
+    width: fit-content;
+    padding: 1px 10px;
+    float: right;
+    background-color: #c3dfcc;
+}
+.payment_status_completed_text{
+    font-size: 13px;
+    color: green;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.date_time_text{
+    color: #000000;
+}
+.show_current_date_time{
+    color: #000000;
+}
+
+/* ========================== modal popup link with bank css ====================================== */
+
+.modal-header{
+    border-bottom: none;
+}
+.plaid_to_link_with_bank_title{
+    font-family: "NeueMontreal-Medium";
+    font-size: 28px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #000000;
+}
+.bank_secure_text{
+    font-family: "NeueMontreal-Medium";
+    letter-spacing: 0.04em;
+    padding-left: 20px;
+    color: #000000;
+}
+.selection_continue_light_text{
+    font-family: "NeueMontreal-Light";
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 0;
+    letter-spacing: 0.04rem;
+}
+.plaid_privacy_policy_text{
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 0;
+}
+.continue_btn_popup{
+    display: flex;
+    justify-content: center;
+    padding: 12px 16px;
+    width: 50%;
+    height: auto;
+    background: #000000;
+    border-radius: 2px;
+    color: #fff;
+    }
+.continue_btn_popup:hover{
+    background-color: #000000;
+    color: #fff;
+}
+
+/* ========================== modal popup select bank css ====================================== */
+
+.select_bank_main_div{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bank_name_div{
+    border-bottom: 1px solid #DBDBDB;
+    
+}
+    
+.bank_icon_image{
+    float: left;
+}
+.bank_name_text{
+    font-family: "NeueMontreal-Medium";
+    font-size: 18px;
+    color: #000000;
+    text-decoration: none;
+}
+.bank_web_site_text{
+    font-family: "NeueMontreal-Light";
+    font-size: 14px;
+    letter-spacing: 0.04rem;
+}
+
+/* ========================== modal popup credentials css ====================================== */
+.main_div_of_user_enter_bank_detail{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.enter_credential_text{
+    font-family: "NeueMontreal-Medium";
+    font-size: 24px;
+}
+.input_for_bank_detail{
+    border-radius: 0;
+}
+.showloader{
+    display: none;
+}
+
+/* ========================== modal popup success css ====================================== */
+.modal_popup_success_text{
+    font-family: "NeueMontreal-Medium";
+    font-size: 24px;
+    margin: 130px 25px;
+}
+@media screen and (max-width: 768px){
+
+    .select_currency_text{
+        padding-left: 15%;
+        margin-left: auto;
+    }
+    .choose_currency_bitcoin_btn{
+        margin-left: 19%;
+    }
+    .deposit_amount_label{
+        padding-left: 19%;
+    }
+    .deposit_amount_input{
+        margin-left: 19%;
+    }
+    .min_deposite_warning_text{
+        padding-left: 19%;
+    }
+    .deposit_amount_input{
+        width: 70%;
+    }
+    .scan_code_copy_div{
+        border: 1px solid #616161;
+        width: 80%;
+        padding-right: 0;
+    }
+}
+
+@media screen and (max-width: 764px){
+
+    .diposit_amount_bg{
+        width: 100%;
+    }
+    .select_currency_text{
+        padding-left:15%;
+    }
+    .choose_currency_bitcoin_btn{
+        margin-left: 15%;
+    }
+    .deposit_amount_label{
+        padding-left: 15%;
+    }
+    .deposit_amount_input{
+        margin-left: 15%;
+    }
+    .min_deposite_warning_text{
+        padding-left: 15%;
+    }
+    .deposit_amount_input{
+        width: 70%;
+    }
+    .scan_code_copy_div{
+        width: auto;
+    }
+    .code_span{
+        font-size: 16px;
+    }
+}
+/* =========== Modal popup set for only width =================== */
+@media screen and (min-width: 576px){
+    .modal-dialog {
+        max-width: 700px;
+        margin: 1.75rem auto;
+    }
+}
+/* ========================================================= */
+@media screen and (max-width:522px) {
+    .scan_code_copy_div{
+        width: auto;
+    }
+    .conform_payment_slip_div{
+        width: auto;
+        height: auto;
+    }
+    .deposite_main_container_fluid{
+        height: 810px;
+    }
+    /* ================== modal popup 1 ============================= */
+
+    .continue_btn_popup{
+        width: 100%;
+    }
+    
+    /* ================== modal popup 2 ============================= */
+    .select_bank_main_div{
+        width: 100%;
+    }
+    .plaid_to_link_with_bank_title{
+        text-align: start;
+    }
+    .main_div_of_user_enter_bank_detail{
+        width: 100%;
+    }
+
+}
+@media screen and (max-width:453px) {
+    .scan_code_copy_div{
+        width: auto;
+    }
+    .code_span{
+        font-size: 14px;
+    }
+    .conform_payment_slip_div{
+        width: 90%;
+        height: auto;
+    }
+    .deposite_main_container_fluid{
+        height: 860px;
+    }
+
+    
+}
+@media screen and (max-width: 390px){
+
+    .progressbar_deposit li span{
+        font-size: 14px;
+    }
+    .select_currency_text{
+        padding-left:0;
+    }
+    .choose_currency_bitcoin_btn{
+        margin-left: 0;
+    }
+    .deposit_amount_label{
+        padding-left: 0;
+    }
+    .deposit_amount_input{
+        width: 100%;
+        margin: 0;
+    }
+    .min_deposite_warning_text{
+        padding-left: 0;
+    }
+    .scan_code_copy_div{
+        width: auto;
+    }
+    .code_span{
+        font-size: 13px;
+    }
+    
+}

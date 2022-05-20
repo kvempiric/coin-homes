@@ -1,0 +1,58 @@
+.navbar {
+  width: 100%;
+  margin-top: 10px;
+}
+.container{
+    margin: 15px auto;
+}
+.navbar-brand {
+  position: relative;
+  height: 50px;
+}
+.navbar-nav {
+  display: flex;
+  flex-wrap: nowrap;
+  flex: right;
+  text-align: center;
+}
+.nav-item {
+  justify-content: flex-end;
+  width: 100%;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #000000;
+  font-family: "Neue Montreal";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  width: 100px;
+  letter-spacing: 0.04em;
+}
+.navbar-light .navbar-nav .nav-link.register {
+  width: 141px;
+  height: 39px;
+  top: 41px;
+  text-align: center;
+
+  background: #000000;
+  border-radius: 99px;
+  color: #ffffff;
+}
+@media screen and (max-width: 768px) {
+  .navbar {
+    position: relative;
+    background-color: #ebb767;
+    margin: 0px;
+  }
+  .navbar-collapse.collapse.show {
+    background-color: #ebb767;
+    display: block;
+    background-color: blue;
+    text-align: center;
+    justify-content: end;
+  }
+}
